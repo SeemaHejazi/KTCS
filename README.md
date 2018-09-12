@@ -12,4 +12,3 @@ number. When they are done with the car they return it to the same location and 
 will pay an annual membership fee for the service and then an hourly rental rate for each use. Members will also be able to post on-line 
 reviews and comments on their experience with a particular vehicle or with KTCS in general. Your task is to provide the database and 
 related functionality required by the KTCS system. 
->>>>>>> fd7c78dd2897b5deccdd408ea746e7f4868b8877
